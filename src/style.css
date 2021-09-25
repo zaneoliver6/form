@@ -1,0 +1,24 @@
+
+body {
+    background: #767677;
+    color: #fff;
+    letter-spacing: 1px; 
+}
+
+a {
+    padding-left: 15px;
+    color: #fff;
+}
+
+header {
+    margin: 20px;
+    text-align: center;
+}
+
+.success {
+    color: #0ff40f;
+}
+
+.error {
+    color: #960303;
+}
